@@ -8,7 +8,7 @@ const Home = () => {
          <span className="orange_gradient text-center">AI-powered prompts</span>
         </h1>
         <p className="desc text-center">
-            PromptBotix is an open source AI prompting tool for modern world to discover , create and share creative
+            PromptBotix is an open source AI prompting tool for modern world to Discover, Create and Share Creative Prompts.
         </p>
         <Feed/>
     </section>
